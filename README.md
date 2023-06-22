@@ -1,5 +1,4 @@
 # todo app
-A simple todo app built with django
 
 ![todo App](https://github.com/abubakirovxolmirza/todoapp/blob/main/staticfiles/todoApp.png)
 ### O'rnatish
