@@ -1,11 +1,11 @@
 # todo app
 A simple todo app built with django
 
-![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+![todo App](https://github.com/abubakirovxolmirza/todoapp/blob/main/staticfiles/todoApp.png)
 ### O'rnatish
 Ushbu loyihani o'rnatish uchun terminalga kerakli buyruqni kirgaz
 ```bash
-$ git clone https://github.com/shreys7/django-todo.git
+$ git clone https://github.com/abubakirovxolmirza/todoapp.git
 ```
 Ushbu ilovani ishga tushirish uchun kompyuteringizga django o'rnatilishi kerak bo'ladi. Yuklab olish qoʻllanmasi uchun https://www.djangoproject.com/download/ saytiga oʻting
 
@@ -25,7 +25,7 @@ Oxirgi qadam, so'ngra bizning vazifamiz ilovasi jonli bo'ladi. Ushbu ilovani ish
 $ python manage.py createsuperuser
 ```
 
-That was pretty simple, right? Now let's make the App live. We just need to start the server now and then we can start using our simple todo App. Start the server by following command
+Biz serverni hozir ishga tushirishimiz kerak, shundan so'ng biz todoapp  ilovasidan foydalanishni boshlashimiz mumkin. Quyidagi buyruq bilan serverni ishga tushiring
 
 ```bash
 $ python manage.py runserver
