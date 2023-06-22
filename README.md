@@ -21,12 +21,12 @@ Endi ushbu migratsiyalarni qo'llash uchun quyidagi buyruqni bajaring
 $ python manage.py migrate
 ```
 
-Oxirgi qadam, so'ngra bizning vazifamiz ilovasi jonli bo'ladi. Ushbu ilovani ishga tushirish uchun administrator foydalanuvchi yaratishimiz kerak. Terminalda quyidagi buyruqni kiriting va administrator foydalanuvchi uchun foydalanuvchi nomi, parol va elektron pochta manzilini kiriting```bash
+Oxirgi qadam, so'ngra bizning vazifamiz ilovasi jonli bo'ladi. Ushbu ilovani ishga tushirish uchun administrator foydalanuvchi yaratishimiz kerak. Terminalda quyidagi buyruqni kiriting va administrator foydalanuvchi uchun foydalanuvchi nomi, parol va elektron pochta manzilini kiriting
+```bash
 $ python manage.py createsuperuser
 ```
 
 Biz serverni hozir ishga tushirishimiz kerak, shundan so'ng biz todoapp  ilovasidan foydalanishni boshlashimiz mumkin. Quyidagi buyruq bilan serverni ishga tushiring
-
 ```bash
 $ python manage.py runserver
 ```
